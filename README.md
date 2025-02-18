@@ -2,16 +2,32 @@
 
 I'm **Dovydas**, an aspiring data analyst! Revealing secrets with data! 📊
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🛠️ Programming Languages & Tools I Use (and try to master):
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/640px-Python-logo.png" alt="Python" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="SQL" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" alt="Power BI" width="50" height="50" />
-</p>
+- Python
+- SQL
+- Power BI
+- Excel
+
+...Way more coming really soon
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+👨‍💼 About Me:
+
+🏭 Over 6 years of experience in the manufacturing industry, leading teams and solving complex problems.
+
+🧠 Discovered the transformative power of data, which led to a career shift into data analytics.
+
+🖥️ Currently building expertise in SQL, Python, Excel, and Power BI to transform raw data into meaningful insights.
+
+🚀 Excited to apply my problem-solving mindset and leadership experience in the field of data analytics.
+
+🤝 Open to connecting with professionals working on data-driven projects or anyone interested in analytics.
 
 ### 📫 How to reach me:
 
 - 📧 [Email me](mailto:dovydaskiskelis@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dovydas-kiskelis)
-
