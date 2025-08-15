@@ -30,49 +30,56 @@
   <tr>
     <td align="center" width="45%">
       <h3>
-        <a href="https://github.com/Kiskelis/FreedomOfTheNet-DashboardAndAnalysis">
-          1. Freedom of the Net Dashboard
+        <a href="https://github.com/Kiskelis/google-play-app-analysis">
+          1. Google Play App Analysis
         </a>
       </h3>
-      <p>Interactive dashboard analyzing net freedom metrics across countries.<br>Tech: Power BI · DAX </p>
+      <p>Analyzed 19.2M+ app reviews to uncover trends, build a PostgreSQL star schema, and create an interactive Power BI dashboard.<br><strong>Tech:</strong> Python · PostgreSQL · Power BI · Pandas</p>
     </td>
+    <td align="center" width="45%">
+      <h3>
+        <a href="https://github.com/Kiskelis/FreedomOfTheNet-DashboardAndAnalysis">
+          2. Freedom of the Net Dashboard
+        </a>
+      </h3>
+      <p>Interactive dashboard analyzing net freedom metrics across countries.<br><strong>Tech:</strong> Power BI · DAX</p>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="45%">
       <h3>
         <a href="https://github.com/Kiskelis/aw-sales-dashboards">
-          2. AW Sales Dashboards
+          3. AW Sales Dashboards
         </a>
       </h3>
-      <p>AdventureWorks sales performance dashboards with dynamic filters.<br>Tech: Power BI · DAX </p>
+      <p>AdventureWorks sales performance dashboards with dynamic filters.<br><strong>Tech:</strong> Power BI · DAX</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="45%">
       <h3>
         <a href="https://github.com/Kiskelis/aw-hr-insights">
-          3. AW HR Insights
+          4. AW HR Insights
         </a>
       </h3>
-      <p>HR analytics on attrition, turnover, and demographics.<br>Tech: Power BI · DAX </p>
-    </td>
-    <td align="center" width="45%">
-      <h3>
-        <a href="https://github.com/Kiskelis/Heart-Disease-Prediction-Logistic-Regression-">
-          4. Heart Disease Prediction
-        </a>
-      </h3>
-      <p>Logistic regression model for 10-year CHD risk.<br>Tech: Python · scikit-learn · Pandas</p>
+      <p>HR analytics on attrition, turnover, and demographics.<br><strong>Tech:</strong> Power BI · DAX</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="45%">
       <h3>
-        <a href="https://github.com/Kiskelis/Fast-Food-Marketing-Campaign-A-B-Test">
-          5. Fast-Food Marketing A/B Test
+        <a href="https://github.com/Kiskelis/Heart-Disease-Prediction-Logistic-Regression-">
+          5. Heart Disease Prediction
         </a>
       </h3>
-      <p>Analyzed sales data from three fast-food marketing campaigns to determine the most effective promotion at a 99% confidence level.<br>Tech: Python · SciPy · Pandas · SQL</p>
+      <p>Logistic regression model for 10-year CHD risk.<br><strong>Tech:</strong> Python · scikit-learn · Pandas</p>
     </td>
-    <td align="center" width="45%"></td>
+    <td align="center" width="45%">
+      <h3>
+        <a href="https://github.com/Kiskelis/Fast-Food-Marketing-Campaign-A-B-Test">
+          6. Fast-Food Marketing A/B Test
+        </a>
+      </h3>
+      <p>Analyzed sales data from three fast-food marketing campaigns to determine the most effective promotion at a 99% confidence level.<br><strong>Tech:</strong> Python · SciPy · Pandas · SQL</p>
+    </td>
   </tr>
 </table>
 
