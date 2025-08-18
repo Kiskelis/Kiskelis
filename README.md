@@ -67,7 +67,7 @@
     <td align="center" width="45%">
       <h3>
         <a href="https://github.com/Kiskelis/Heart-Disease-Prediction-Logistic-Regression-">
-          5. Heart Disease Prediction
+          5. Logistic Regression Model. Heart Disease Prediction 
         </a>
       </h3>
       <p>Logistic regression model for 10-year CHD risk.<br><strong>Tech:</strong> Python · scikit-learn · Pandas</p>
