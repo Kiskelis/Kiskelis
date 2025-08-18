@@ -1,6 +1,6 @@
 <!-- ================= TITLE & CONTACT ================= -->
 <h2 align="center">👋 Hi, I’m Dovydas</h2>
-<p align="center">Aspiring Data Analyst & Relentless Learner – designing interactive Power BI dashboards that distill complex datasets into clear, actionable insights today, while steadily mastering machine-learning techniques to architect intelligent solutions for tomorrow.</p>
+<p align="center">Data Analyst – combining expertise in data cleaning, transformation, and dashboard design to deliver deep business insights today, with a growing focus on machine learning to unlock intelligent solutions for tomorrow.</p>
 
 <p align="center">
   <a href="mailto:dovydaskiskelis@gmail.com">📧 Email</a> ·
